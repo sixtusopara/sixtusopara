@@ -19,27 +19,27 @@ Over the past few years, I've worked on projects ranging from corporate websites
 - WordPress Development & Customization
 
 ## Projects
-- 📌 Featured Projects
+📌 Featured Projects
 
-- Mezer App
+1.  Mezer App
 
-A digital body measurement platform that helps users capture, manage, and share accurate body measurements without relying on traditional measuring methods. Designed for tailors, fashion designers, clothing brands, and customers, Mezer simplifies the measurement process, reduces fitting errors, and streamlines custom garment production through a modern, user-friendly experience.
+    A digital body measurement platform that helps users capture, manage, and share accurate body measurements without relying on traditional measuring methods. Designed for tailors, fashion designers, clothing brands, and customers, Mezer simplifies the measurement process, reduces fitting errors, and streamlines custom garment production through a modern, user-friendly experience.
 
-https://mezerme.com
+    https://mezerme.com
 
-- 41 Wines
+2.  41 Wines
 
-Multi-location wine retail platform featuring reseller management, inventory organization, and e-commerce functionality.
-https://41wines.com
+    Multi-location wine retail platform featuring reseller management, inventory organization, and e-commerce functionality.
+    https://41wines.com
 
-- Zou Wines
+3.  Zou Wines
 
-Dedicated wine brand website inspired by modern beverage brands and optimized for conversion.
-https://zouwine.com
+    Dedicated wine brand website inspired by modern beverage brands and optimized for conversion.
+    https://zouwine.com
 
-- Netloft Academy
+4.  Netloft Academy
 
-An educational platform designed to teach children and teenagers web development and technology skills.
+    An educational platform designed to teach children and teenagers web development and technology skills.
 
-https://academy.netloft.com.ng
+    https://academy.netloft.com.ng
 
